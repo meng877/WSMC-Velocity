@@ -138,11 +138,9 @@ A: CDN 通常会在 WebSocket 握手请求中添加 `X-Forwarded-For` 等 Header
 
 ## 开源协议
 
-[GNU General Public License v3.0](LICENSE)
+GNU General Public License v3.0 (GPL-3.0)
 
-Copyright (C) 2024 WSMC Team
-
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+详见 [LICENSE](LICENSE) 文件。
 
 ---
 
